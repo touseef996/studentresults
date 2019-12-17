@@ -1,0 +1,37 @@
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\bin\Debug\StudentResults.exe
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\bin\Debug\StudentResults.pdb
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Form1.resources
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Properties.Resources.resources
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\StudentResults.exe
+c:\users\jhood.glasgowclyde\documents\visual studio 2010\Projects\StudentResults\StudentResults\obj\x86\Debug\StudentResults.pdb
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.exe
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.pdb
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\bin\Debug\StudentResults.exe
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\bin\Debug\StudentResults.pdb
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Form1.resources
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Properties.Resources.resources
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jhood.GLASGOWCLYDE.000\Desktop\StudentResults\StudentResults\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.exe
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.pdb
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\bin\Debug\StudentResults.exe
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\bin\Debug\StudentResults.pdb
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Form1.resources
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Properties.Resources.resources
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ak497542c\Desktop\StudentResults\StudentResults\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user12\Desktop\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.exe
+C:\Users\user12\Desktop\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.pdb
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.exe
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.pdb
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\bin\Debug\StudentResults.exe
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\bin\Debug\StudentResults.pdb
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.csprojResolveAssemblyReference.cache
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Form1.resources
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.Properties.Resources.resources
+D:\DESKTOP COREI5\University stuff\WHITE USB\LATEST\Graded Project\SOFTWARE\StudentResults\StudentResults\obj\x86\Debug\StudentResults.csproj.GenerateResource.Cache
